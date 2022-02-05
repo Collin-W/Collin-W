@@ -3,7 +3,7 @@
 
   <div align="justify">
     <strong>
-      
+     I want to learn new things and take a leap into the unknown.
     </strong>
   </div>
 
