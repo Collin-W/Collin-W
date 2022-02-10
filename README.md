@@ -1,11 +1,9 @@
 
 # Howdy! 🤠 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-  <div align="justify">
-    <strong>
-     I want to learn new things and take a leap into the unknown.
-    </strong>
-  </div>
+  
+## I want to learn 📖 & leap into the unknown 🌌
+    
 
 # 🔧 Technologies & Tools
 
@@ -75,6 +73,3 @@
   <img 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collin-W&theme=radical&layout=compact"
   />
-
-
-⚡ Fun fact: If you cut a grape in half in a manor that leaves a tiny bit of skin between the two slices. You can put it in the micorwave to create the 4th state of matter AKA plasma(the stuff on the sun)-- but don't try it
