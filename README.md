@@ -10,6 +10,15 @@
   <tr>
     <td align="center" height="108" width="108">
       <img
+        src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"
+        width="48"
+        height="48"
+        alt="Vue.js"
+      />
+      <br /><strong>Vue</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
         height="48"
