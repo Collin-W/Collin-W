@@ -1,5 +1,5 @@
 
-## Howdy! Welcome To My Page 🤠 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Howdy! Welcome To My Page <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🤠
 
  <br/>
 
