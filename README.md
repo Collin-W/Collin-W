@@ -1,10 +1,14 @@
 
-# Howdy! 🤠 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Howdy! 🤠 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+ <br/>
+
+###  Visit My Website [ Here](https://collinwhalen.com/) 👈
+
+ <br/>
 
  
-    
-
-# 🔧 Technologies & Tools
+### Tools I Use: 
 
 <table>
   <tr>
@@ -74,10 +78,12 @@
     </td>
   </table>
   
-  # 📈 Stats
+  
+  ### My Stats:
    <img
    src="https://github-readme-stats.vercel.app/api?username=Collin-W&show_icons=true&theme=radical"
   /></br>
   <img 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collin-W&theme=radical&layout=compact"
   />
+
