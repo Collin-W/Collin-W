@@ -77,12 +77,7 @@
    <br/>
   
   
-  ### Gotta Flex My Stats:
-   <img
-   src="https://github-readme-stats.vercel.app/api?username=Collin-W&show_icons=true&theme=radical"
-  />
-  </br>
-   <br/>
+
   <img 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collin-W&theme=radical&layout=compact"
   />
