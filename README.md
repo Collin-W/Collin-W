@@ -8,6 +8,15 @@
 
 <table>
   <tr>
+       <td align="center" height="108" width="108">
+      <img
+        src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg"
+        width="48"
+        height="48"
+        alt="Vue.js"
+      />
+      <br /><strong>Go</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"
